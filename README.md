@@ -2,22 +2,20 @@
 
 # Hello, World!
 - I am Damix
-- 2007!
+- Born:
+- 01.05.2007 [DD.MM.YY]
+- 05.01.2007 [MM.DD.YY]
+  
   - Languages That I Understand:
-    English, Polish and little bit of Spanish.
+    English and Polish!
   - Programming Languages:
-    LUA, HTML And Little Bit Of Python.
+    LUA And Little Bit Of Python.
 
 # What projects will i usually do?
 - honestly i'll just do random projects when i feel bored
 
 # Contact Mail:
-Ignoring I never use Gmail outside of verifying onto sites i got my own contact mail.
-damix2131.contact@gmail.com
-
-Also I got my Discord profile linked into my site!
-https://damix2hell.neocities.org/
-Feel free to check it out. 
-P.S: CSS was public!
+Please send me an mail to: damix2131.contact@gmail.com for assistance
+with any issues
 
 Thanks for reading!
